@@ -1,0 +1,9 @@
+
+{
+  "name": "Sehat Nabha – Rural Telemedicine Access",
+  "description": "An AI-powered multilingual telemedicine app that connects rural patients with doctors from Nabha Civil Hospital. It features real-time voice consultations, AI symptom analysis, offline record access, medicine tracking, and map-integrated emergency navigation.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
